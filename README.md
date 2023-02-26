@@ -20,10 +20,8 @@
   [![bilibili](https://img.shields.io/badge/BiliBili-B%E7%AB%99-ff69b4?logo=bilibili&style=flat)](https://space.bilibili.com/4170868)
   [![zhihu](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue?logo=zhihu&style=flat)](https://www.zhihu.com/people/hliblack-23-02-26)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:icroshl@gmail.com)  
-  <!--
-  暂时不生效
-   <img src="https://visitor-badge.glitch.me/badge?page_id=hliblack" alt="访客统计" /></div>
-  -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=hliblack" alt="访客统计" /></div>
+  
  
 
   &nbsp;&nbsp;Welcome to my Github page! I am hliblack, currently a Operation and maintenance engineer, learning Java develop, Linux, Ansible, love computer science and IT Internet career, looking forward to the success of transformation!
