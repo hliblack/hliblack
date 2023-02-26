@@ -16,10 +16,9 @@
 
   [![butterfly](https://img.shields.io/badge/Website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue?logo=Hexo&style=flat)](https://hyouka.top)
   [![twitter](https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue?logo=twitter&style=flat)](https://twitter.com/hliblack)
-  [![youtube](https://img.shields.io/badge/Youtube-%E6%B2%B9%E7%AE%A1-c32136?logo=youtube&style=flat)](https://www.youtube.com/channel/UCg-_ZZjbp82ckHUw5JGJZEw)  
   [![bilibili](https://img.shields.io/badge/BiliBili-B%E7%AB%99-ff69b4?logo=bilibili&style=flat)](https://space.bilibili.com/4170868)
   [![zhihu](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue?logo=zhihu&style=flat)](https://www.zhihu.com/people/hliblack-23-02-26)
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:icroshl@gmail.com)  
+  [![outlook](https://img.shields.io/badge/-Outlook-c14438?style=flat&logo=Outlook&logoColor=white)](mailto:hliblack@hotmail.com)  
   <img src="https://visitor-badge.glitch.me/badge?page_id=hliblack" alt="访客统计" /></div>
   
  
