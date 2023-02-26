@@ -3,7 +3,7 @@
 - <!-- 动态打字效果 -->
 
   <h1 align="center">
-    <a href="https://adunm.top/">
+    <a href="https://hyouka.top/">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%E2%80%9CHello,%20World!%E2%80%9D);Hi%20there%20%F0%9F%91%8B&center=true&size=27">
     </a>
   </h1>
